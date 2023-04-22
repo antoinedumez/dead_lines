@@ -1,10 +1,9 @@
 // Tableau contenant les informations sur les différentes deadlines
 const deadlines = [
-    { title: 'TITRE Inscription', date: '2023-04-26' },
     { title: 'TITRE Résumé de dossier', date: '2023-08-04' },
     { title: 'TITRE Dossier professionnel + Dossier projet', date: '2023-08-28' },
     { title: 'TITRE Passage', date: '2023-09-04' },
-    { title: 'Site vitrine', date: '2023-03-01' },
+    { title: 'Site vitrine', date: '2023-04-30' },
     { title: 'Site devis', date: '2023-07-01' },
 ];
 deadlines.sort((a, b) => {
